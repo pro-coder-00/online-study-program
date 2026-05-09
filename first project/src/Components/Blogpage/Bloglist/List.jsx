@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import img1 from '../../../images/list1.png'
+import img1 from '../../../images/List1.png'
 import img2 from '../../../images/list2.png'
 import img3 from '../../../images/list3.png'
 import img4 from '../../../images/list4.png'
